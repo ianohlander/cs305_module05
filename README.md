@@ -3,7 +3,9 @@
 
 **This is some sample mark up text that is bolded**
 
-Contributor
+### Contributor
+
 Connor Swingle- css354
+Alexander Poole- acp334
 
 And my license is the [GNU GPL 2.0 License](LICENSE)
