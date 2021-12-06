@@ -3,4 +3,4 @@
 
 **This is some sample mark up text that is bolded**
 
-And this is is a link to [my License](LICENSE)
+And my license is the [GNU GPL 2.0 License](LICENSE)
