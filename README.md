@@ -3,4 +3,7 @@
 
 **This is some sample mark up text that is bolded**
 
+Contributor
+Connor Swingle- css354
+
 And my license is the [GNU GPL 2.0 License](LICENSE)
