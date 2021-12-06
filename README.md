@@ -3,4 +3,4 @@
 
 **This is some sample mark up text that is bolded**
 
-And this is my [Licence] (LICENCE)
+And this is my [Licence] (docs/LICENCE)
